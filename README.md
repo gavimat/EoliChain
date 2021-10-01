@@ -1,0 +1,1 @@
+Este repositório refere-se à implementação da rede Eolichain. Esta rede é composta por 2 Organizações, sendo cada uma delas composta por 2 Peers. Além disso, esta conta com 1 Orderer Raft e com 4 Couch DBs, sendo 1 para cada Peer participante da rede.
