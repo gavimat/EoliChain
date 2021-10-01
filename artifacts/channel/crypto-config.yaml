@@ -37,6 +37,8 @@ PeerOrgs:
 
     Template:
       Count: 2
+      # Start: 5
+      # Hostname: {{.Prefix}}{{.Index}} # default
       SANS:
         - "localhost"
 
@@ -49,6 +51,8 @@ PeerOrgs:
 
     Template:
       Count: 2
+      # Start: 5
+      # Hostname: {{.Prefix}}{{.Index}} # default
       SANS:
         - "localhost"
 
